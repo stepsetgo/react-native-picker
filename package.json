@@ -11,9 +11,6 @@
     "type": "git",
     "url": "git@github.com:beefe/react-native-picker.git"
   },
-  "publishConfig": {
-    "registry": "http://yarnpkg-1.staging.ssg.org/"
-  },
   "author": "zooble",
   "license": "MIT",
   "homepage": "https://github.com/beefe/react-native-picker"
